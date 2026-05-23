@@ -13,6 +13,10 @@
 
 .DS_Store
 
+# Generated configuration files
+pacman.conf
+pacman-debug.conf
 
+# Build directories
 local-repo/
 /calamares/
